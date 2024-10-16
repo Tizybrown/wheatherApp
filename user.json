@@ -1,0 +1,15 @@
+
+[
+    {
+        "name": "saheed",
+        "age":19,
+        "gender": "male",
+        "student": true
+    },
+    {
+        "name": "aisha",
+        "age":17,
+        "gender": "female",
+        "student": true
+    }
+]
